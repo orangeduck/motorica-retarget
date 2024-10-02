@@ -7,7 +7,7 @@ The skinned character mesh is available in `Geno.fbx` and is free for non-commer
 
 This dataset is compatible with:
 
-* [lafan-resolved](https://github.com/orangeduck/lafan-resolved)
+* [lafan1-resolved](https://github.com/orangeduck/lafan1-resolved)
 * [zeroeggs-retarget](https://github.com/orangeduck/zeroeggs-retarget)
 
 Download
