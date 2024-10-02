@@ -13,8 +13,8 @@ This dataset is compatible with:
 Download
 ========
 
-[BVH Data](https://theorangeduck.com/media/uploads/Geno/motorica-retarget/bvh.zip)
-[FBX Data](https://theorangeduck.com/media/uploads/Geno/motorica-retarget/fbx.zip)
+* [BVH Data](https://theorangeduck.com/media/uploads/Geno/motorica-retarget/bvh.zip)
+* [FBX Data](https://theorangeduck.com/media/uploads/Geno/motorica-retarget/fbx.zip)
 
 License
 =======
