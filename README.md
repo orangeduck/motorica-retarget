@@ -18,8 +18,8 @@ This dataset is compatible with:
 
 For an example raylib application that can visualize this data on a skinned character check out the [GenoView](https://github.com/orangeduck/GenoView) repo.
 
-Problems
-========
+Known Problems
+==============
 
 Be aware that the following animations have broken finger motion:
 
