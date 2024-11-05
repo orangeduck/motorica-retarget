@@ -70,7 +70,11 @@ kthmisc_gCA_sFM_cAll_d01_mCA_ch28
 kthmisc_gCA_sFM_cAll_d01_mCA_ch29
 kthmisc_gCA_sFM_cAll_d01_mCA_ch30
 ```
-
+There is a glitch in `kthstreet_gPO_sFM_cAll_d02_mPO_ch01_atombounce_001` at frame 8588 (time 71.57).
+There is a glitch in `kthstreet_gKR_sFM_cAll_d01_mKR5_ch05` between frame 9714 and 9790 (time 80.95 and 81.58)
+The left hand is glitched in `kthstreet_gLH_sFM_cAll_d01_mLH12_ch12` between frame 16156 and 16217 (time 134.63 and 135.14)
+The left hand is glitched in `kthstreet_gLH_sFM_cAll_d01_mLH3_ch03` between frame 11867 and 11897 (time 98.89 and 99.14)
+The left hand is glitched in `kthstreet_gPO_sFM_cAll_d01_mPO6_ch06` between frame 11502 and 11527 (time 95.85 and 96.05)
 
 Download
 ========
