@@ -18,6 +18,60 @@ This dataset is compatible with:
 
 For an example raylib application that can visualize this data on a skinned character check out the [GenoView](https://github.com/orangeduck/GenoView) repo.
 
+Problems
+========
+
+Be aware that the following animations have broken finger motion:
+
+```
+kthjazz_gCH_sFM_sngl_d01_007
+kthjazz_gCH_sFM_sngl_d01_008
+kthjazz_gCH_sFM_sngl_d01_009
+kthjazz_gCH_sFM_sngl_d01_019
+kthjazz_gCH_sFM_sngl_d02_005
+kthjazz_gCH_sFM_sngl_d02_006
+kthjazz_gCH_sFM_sngl_d02_018
+kthjazz_gJZ_sFM_sngl_d01_001
+kthjazz_gJZ_sFM_sngl_d01_002
+kthjazz_gJZ_sFM_sngl_d01_020
+kthjazz_gJZ_sFM_sngl_d01_021
+kthjazz_gJZ_sFM_sngl_d02_003
+kthjazz_gJZ_sFM_sngl_d02_004
+kthjazz_gTP_sFM_sngl_d01_010
+kthjazz_gTP_sFM_sngl_d02_014
+kthjazz_gTP_sFM_sngl_d02_015
+kthjazz_gTP_sFM_sngl_d02_016
+kthjazz_gCH_sFM_cAll_d02_mCH_ch01_thesavoyorpheansthecharleston_005
+```
+
+And the following animations have no finger motion:
+
+```
+kthmisc_gCA_sFM_cAll_d01_mCA_ch0
+kthmisc_gCA_sFM_cAll_d01_mCA_ch1
+kthmisc_gCA_sFM_cAll_d01_mCA_ch2
+kthmisc_gCA_sFM_cAll_d01_mCA_ch3
+kthmisc_gCA_sFM_cAll_d01_mCA_ch4
+kthmisc_gCA_sFM_cAll_d01_mCA_ch5
+kthmisc_gCA_sFM_cAll_d01_mCA_ch6
+kthmisc_gCA_sFM_cAll_d01_mCA_ch8
+kthmisc_gCA_sFM_cAll_d01_mCA_ch9
+kthmisc_gCA_sFM_cAll_d01_mCA_ch10
+kthmisc_gCA_sFM_cAll_d01_mCA_ch13
+kthmisc_gCA_sFM_cAll_d01_mCA_ch14
+kthmisc_gCA_sFM_cAll_d01_mCA_ch15
+kthmisc_gCA_sFM_cAll_d01_mCA_ch16
+kthmisc_gCA_sFM_cAll_d01_mCA_ch17
+kthmisc_gCA_sFM_cAll_d01_mCA_ch19
+kthmisc_gCA_sFM_cAll_d01_mCA_ch20
+kthmisc_gCA_sFM_cAll_d01_mCA_ch22
+kthmisc_gCA_sFM_cAll_d01_mCA_ch24
+kthmisc_gCA_sFM_cAll_d01_mCA_ch28
+kthmisc_gCA_sFM_cAll_d01_mCA_ch29
+kthmisc_gCA_sFM_cAll_d01_mCA_ch30
+```
+
+
 Download
 ========
 
