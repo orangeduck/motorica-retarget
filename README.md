@@ -79,7 +79,6 @@ kthmisc_gCA_sFM_cAll_d01_mCA_ch30
 * The right leg is glitched in `kthstreet_gKR_sFM_cAll_d01_mKR1_ch01` between time 102.11 and 104.60
 * The head is glitched in `kthstreet_gKR_sFM_cAll_d01_mKR5_ch05` between time 58.83 and 59.26
 * The left hand is glitched in `kthstreet_gKR_sFM_cAll_d01_mKR5_ch05` between time 139.82 and 140.20
-* The left hand is glitched in `kthstreet_gKR_sFM_cAll_d01_mKR5_ch05` between time 139.82 and 140.20
 * The right hand is glitched in `kthstreet_gLH_sFM_cAll_d01_mLH11_ch11` between time 1.75 and 3.80
 
 Download
